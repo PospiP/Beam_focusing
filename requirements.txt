@@ -2,3 +2,4 @@ numpy
 scipy
 plotly
 panel
+bokeh
