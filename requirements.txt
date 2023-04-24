@@ -1,4 +1,4 @@
+panel==0.14.1
 numpy
 scipy
 plotly
-panel==0.14.0
