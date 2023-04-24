@@ -1,5 +1,4 @@
 numpy
 scipy
 plotly
-panel
-bokeh
+panel==0.14.0
